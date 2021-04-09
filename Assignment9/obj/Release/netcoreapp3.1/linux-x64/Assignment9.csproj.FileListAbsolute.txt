@@ -1,0 +1,17 @@
+C:\Users\ricke\source\repos\Assignment9\Assignment9\bin\Release\netcoreapp3.1\linux-x64\Assignment9.deps.json
+C:\Users\ricke\source\repos\Assignment9\Assignment9\bin\Release\netcoreapp3.1\linux-x64\Assignment9.runtimeconfig.json
+C:\Users\ricke\source\repos\Assignment9\Assignment9\bin\Release\netcoreapp3.1\linux-x64\Assignment9.runtimeconfig.dev.json
+C:\Users\ricke\source\repos\Assignment9\Assignment9\bin\Release\netcoreapp3.1\linux-x64\Assignment9.dll
+C:\Users\ricke\source\repos\Assignment9\Assignment9\bin\Release\netcoreapp3.1\linux-x64\Assignment9.pdb
+C:\Users\ricke\source\repos\Assignment9\Assignment9\bin\Release\netcoreapp3.1\linux-x64\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\ricke\source\repos\Assignment9\Assignment9\bin\Release\netcoreapp3.1\linux-x64\Amazon.Lambda.Core.dll
+C:\Users\ricke\source\repos\Assignment9\Assignment9\bin\Release\netcoreapp3.1\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\ricke\source\repos\Assignment9\Assignment9\bin\Release\netcoreapp3.1\linux-x64\Newtonsoft.Json.dll
+C:\Users\ricke\source\repos\Assignment9\Assignment9\obj\Release\netcoreapp3.1\linux-x64\Assignment9.csprojAssemblyReference.cache
+C:\Users\ricke\source\repos\Assignment9\Assignment9\obj\Release\netcoreapp3.1\linux-x64\Assignment9.AssemblyInfoInputs.cache
+C:\Users\ricke\source\repos\Assignment9\Assignment9\obj\Release\netcoreapp3.1\linux-x64\Assignment9.AssemblyInfo.cs
+C:\Users\ricke\source\repos\Assignment9\Assignment9\obj\Release\netcoreapp3.1\linux-x64\Assignment9.csproj.CoreCompileInputs.cache
+C:\Users\ricke\source\repos\Assignment9\Assignment9\obj\Release\netcoreapp3.1\linux-x64\Assignment9.csproj.CopyComplete
+C:\Users\ricke\source\repos\Assignment9\Assignment9\obj\Release\netcoreapp3.1\linux-x64\Assignment9.dll
+C:\Users\ricke\source\repos\Assignment9\Assignment9\obj\Release\netcoreapp3.1\linux-x64\Assignment9.pdb
+C:\Users\ricke\source\repos\Assignment9\Assignment9\obj\Release\netcoreapp3.1\linux-x64\Assignment9.genruntimeconfig.cache
